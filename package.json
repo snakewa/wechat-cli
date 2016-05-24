@@ -1,0 +1,29 @@
+{
+  "name": "wechat-cli",
+  "version": "0.0.1",
+  "description": "wechat cli client based on wechat4u node client",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^1.0.2",
+    "qrcode-terminal": "^0.10.0",
+    "wechat4u": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/snakewa/wechat-cli.git"
+  },
+  "keywords": [
+    "wechat",
+    "wechat4u",
+    "cli"
+  ],
+  "author": "snakewa",
+  "bugs": {
+    "url": "https://github.com/snakewa/wechat4u-cli/issues"
+  },
+  "homepage": "https://github.com/snakewa/wechat4u-cli#readme"
+}
