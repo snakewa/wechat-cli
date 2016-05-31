@@ -6,7 +6,7 @@
 
 ##設置
 ```
-git clone https://github.com/snakewa/wechat4u-cli
+git clone https://github.com/snakewa/wechat-cli
 npm install
 ```
 
