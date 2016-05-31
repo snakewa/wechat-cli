@@ -3,7 +3,12 @@
   "version": "0.0.1",
   "description": "wechat cli client based on wechat4u node client",
   "main": "index.js",
+  "scripts": {
+    "test": "node --harmony index.js",
+    "start": "node --harmony index.js"
+  },
   "dependencies": {
+    "debug": "^2.2.0",
     "inquirer": "^1.0.2",
     "qrcode-terminal": "^0.10.0",
     "wechat4u": "^0.3.3"
